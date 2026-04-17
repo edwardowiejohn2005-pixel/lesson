@@ -1,9 +1,9 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	name := "Edward"
+// func main() {
+// 	name := "Edward"
 
-	fmt.Printf("Hello, my name is %s and I am learning Go!", name)
-}
+// 	fmt.Printf("Hello, my name is %s and I am learning Go!", name)
+// }
